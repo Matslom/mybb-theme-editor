@@ -1,0 +1,18 @@
+{
+	"database": {
+		"prefix": "mybb_"
+	},
+	"mysql": {
+		"host": "localhost",
+		"username": "root",
+		"password": "secret",
+		"database": "mybb"
+	},
+	"theme": {
+		"id": 2
+	},
+	"app": {
+		"datadir": "templates",
+		"fileext": ".html"
+	}
+}

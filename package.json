@@ -1,0 +1,20 @@
+{
+  "name": "mybb-theme-editor",
+  "version": "0.0.1",
+  "description": "Edit MyBB themes in your favourite editor",
+  "main": "index.js",
+  "keywords": [
+    "MyBB",
+    "theme",
+    "edior"
+  ],
+  "author": "Matslom",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "del": "^2.2.0",
+    "glob": "^6.0.2",
+    "mysql": "^2.10.0",
+    "watch": "^0.17.1"
+  }
+}
